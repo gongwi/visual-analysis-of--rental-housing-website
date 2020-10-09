@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1980ebf2-d97e-4ea4-b4be-2b5378f552fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1enbbyXb50RKCK8jbofp4B04qPB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/charts" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files (x86)\OOP 1.2\static\charts" />
+      <recent name="D:\Program Files (x86)\OOP 1.0\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.OOP 1.0">
+    <configuration name="OOP 1.0" type="PythonConfigurationType" factoryName="Python">
+      <module name="OOP 1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WangQiu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OOP 1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data/WangQiu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="interact" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OOP 1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interact.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.WangQiu" />
+        <item itemvalue="Python.interact" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1980ebf2-d97e-4ea4-b4be-2b5378f552fe" name="Default Changelist" comment="" />
+      <created>1594960379189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594960379189</updated>
+      <workItem from="1594960381076" duration="11176000" />
+      <workItem from="1594996033386" duration="54000" />
+      <workItem from="1594996107989" duration="118000" />
+      <workItem from="1595040408976" duration="13255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594996084567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1594996084567" />
+    <state x="499" y="115" key="FileChooserDialogImpl" timestamp="1594970398510">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="115" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594970398510" />
+    <state width="1483" height="247" key="GridCell.Tab.0.bottom" timestamp="1595084839183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="247" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595084839183" />
+    <state width="1483" height="247" key="GridCell.Tab.0.center" timestamp="1595084839183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="247" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595084839183" />
+    <state width="1483" height="247" key="GridCell.Tab.0.left" timestamp="1595084839183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="247" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595084839183" />
+    <state width="1483" height="247" key="GridCell.Tab.0.right" timestamp="1595084839183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="247" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595084839183" />
+    <state width="1483" height="247" key="GridCell.Tab.1.bottom" timestamp="1595084839184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="247" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595084839184" />
+    <state width="1483" height="247" key="GridCell.Tab.1.center" timestamp="1595084839184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="247" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595084839184" />
+    <state width="1483" height="247" key="GridCell.Tab.1.left" timestamp="1595084839183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="247" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595084839183" />
+    <state width="1483" height="247" key="GridCell.Tab.1.right" timestamp="1595084839184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="247" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595084839184" />
+    <state x="406" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1595040413672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="406" y="201" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595040413672" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ganghui.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OOP_1_2$WangQiu.coverage" NAME="WangQiu Coverage Results" MODIFIED="1595084645666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data" />
+    <SUITE FILE_PATH="coverage/OOP_1_0$interact.coverage" NAME="interact Coverage Results" MODIFIED="1594970817015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OOP_1_0$OOP_1_0.coverage" NAME="OOP 1.0 Coverage Results" MODIFIED="1594979036236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/OOP_1_2$OOP_1_0.coverage" NAME="OOP 1.0 Coverage Results" MODIFIED="1595084776543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>

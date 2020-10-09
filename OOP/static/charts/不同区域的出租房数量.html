@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-b2f2cea7c603d4e061f00c83a1e9b811"}, "mark": {"type": "bar", "color": "orange"}, "encoding": {"color": {"type": "nominal", "field": "variable"}, "x": {"type": "nominal", "field": "\u533a\u57df"}, "y": {"type": "quantitative", "field": "\u51fa\u79df\u623f\u6570\u91cf"}}, "height": 500, "title": "\u4e0d\u540c\u533a\u57df\u7684\u51fa\u79df\u623f\u6570\u91cf", "transform": [{"fold": ["\u51fa\u79df\u623f\u6570\u91cf"], "as": ["variable", "value"]}], "width": 700, "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-b2f2cea7c603d4e061f00c83a1e9b811": [{"\u533a\u57df": "\u4ece\u5316", "\u51fa\u79df\u623f\u6570\u91cf": 105}, {"\u533a\u57df": "\u5357\u6c99", "\u51fa\u79df\u623f\u6570\u91cf": 149}, {"\u533a\u57df": "\u5357\u6d77", "\u51fa\u79df\u623f\u6570\u91cf": 19}, {"\u533a\u57df": "\u589e\u57ce", "\u51fa\u79df\u623f\u6570\u91cf": 240}, {"\u533a\u57df": "\u5929\u6cb3", "\u51fa\u79df\u623f\u6570\u91cf": 4007}, {"\u533a\u57df": "\u5e7f\u5dde\u5468\u8fb9", "\u51fa\u79df\u623f\u6570\u91cf": 198}, {"\u533a\u57df": "\u6d77\u73e0", "\u51fa\u79df\u623f\u6570\u91cf": 893}, {"\u533a\u57df": "\u756a\u79ba", "\u51fa\u79df\u623f\u6570\u91cf": 2937}, {"\u533a\u57df": "\u767d\u4e91", "\u51fa\u79df\u623f\u6570\u91cf": 655}, {"\u533a\u57df": "\u82b1\u90fd", "\u51fa\u79df\u623f\u6570\u91cf": 67}, {"\u533a\u57df": "\u8354\u6e7e", "\u51fa\u79df\u623f\u6570\u91cf": 425}, {"\u533a\u57df": "\u8d8a\u79c0", "\u51fa\u79df\u623f\u6570\u91cf": 352}, {"\u533a\u57df": "\u9ec4\u57d4", "\u51fa\u79df\u623f\u6570\u91cf": 1344}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
